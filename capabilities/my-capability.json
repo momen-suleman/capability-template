@@ -1,0 +1,8 @@
+{
+  "kind": "capability",
+  "name": "My Capability",
+  "description": "Replace with what your capability does.",
+  "category": "External",
+  "endpoint": "http://127.0.0.1:9321",
+  "timeoutSecs": 30
+}
